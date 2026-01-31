@@ -3,7 +3,7 @@
 Welcome to my Food Delivery Data Analysis Project, completed as part of an internship program.
 This project focuses on combining multiple real-world datasets and performing meaningful analysis to uncover business insights.
 
-<b>📁 Project Overview</b>
+<h2>📁 Project Overview</h2>
 
 In this project, I worked with three different data sources:
 
@@ -15,7 +15,7 @@ In this project, I worked with three different data sources:
 
 These datasets were merged into a single final dataset and used as the only source of truth for all analysis.
 
-🛠 Tools & Technologies Used
+<h2>🛠 Tools & Technologies Used</h2>
 
 🐍 Python
 
@@ -27,7 +27,7 @@ These datasets were merged into a single final dataset and used as the only sour
 
 📈 Data Analysis & Visualization
 
-📌 Key Tasks Performed
+<h2>📌 Key Tasks Performed</h2>
 
 🔹 Loaded data from CSV, JSON, and SQL files
 
@@ -37,7 +37,7 @@ These datasets were merged into a single final dataset and used as the only sour
 
 🔹 Performed analytical queries and visualizations
 
-📊 Key Insights
+<h2>📊 Key Insights</h2>
 
 ✨ Identified highest revenue quarter
 
@@ -47,10 +47,3 @@ These datasets were merged into a single final dataset and used as the only sour
 
 ✨ Measured membership impact on revenue
 
-📂 Repository Contents
-
-📓 analysis.ipynb — Complete analysis notebook
-
-📄 final_food_delivery_dataset.csv — Final merged dataset
-
-📘 README.md — Project documentation
