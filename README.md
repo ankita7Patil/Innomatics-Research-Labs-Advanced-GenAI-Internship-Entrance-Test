@@ -1,14 +1,16 @@
-🍔📊 Food Delivery Data Analysis Internship Project
+<H1>🍔📊 Food Delivery Data Analysis Internship Project</H1>
 
-Welcome to my Food Delivery Data Analysis Project completed as part of an internship program.
+Welcome to my Food Delivery Data Analysis Project, completed as part of an internship program.
 This project focuses on combining multiple real-world datasets and performing meaningful analysis to uncover business insights.
 
-📁 Project Overview
+<b>📁 Project Overview</b>
 
 In this project, I worked with three different data sources:
 
 ✅ Orders Data (CSV)
+
 ✅ Users Data (JSON)
+
 ✅ Restaurants Data (SQL)
 
 These datasets were merged into a single final dataset and used as the only source of truth for all analysis.
@@ -16,39 +18,39 @@ These datasets were merged into a single final dataset and used as the only sour
 🛠 Tools & Technologies Used
 
 🐍 Python
+
 📊 Pandas
+
 🗃 SQLite / SQL Queries
+
 📓 Jupyter Notebook
+
 📈 Data Analysis & Visualization
 
 📌 Key Tasks Performed
 
 🔹 Loaded data from CSV, JSON, and SQL files
+
 🔹 Cleaned and merged datasets using LEFT JOIN
+
 🔹 Created final dataset: final_food_delivery_dataset.csv
-🔹 Performed analytical queries such as:
 
-📈 Revenue trends by quarter
+🔹 Performed analytical queries and visualizations
 
-👑 Gold vs Regular membership analysis
+📊 Key Insights
 
-🍽 Cuisine-wise performance
+✨ Identified highest revenue quarter
 
-🏙 City-wise revenue distribution
+✨ Discovered top performing cuisines and cities
 
-⭐ Restaurant rating impact
+✨ Analyzed customer behavior patterns
 
-📊 Insights Generated
+✨ Measured membership impact on revenue
 
-✨ Highest revenue quarter identified
-✨ Top performing cuisines and cities
-✨ Customer behavior patterns
-✨ Membership impact on revenue
+📂 Repository Contents
 
-(All analysis done inside the Jupyter Notebook)
+📓 analysis.ipynb — Complete analysis notebook
 
-📂 Files in This Repository
+📄 final_food_delivery_dataset.csv — Final merged dataset
 
-📓 analysis.ipynb → Complete data loading + analysis notebook
-📄 final_food_delivery_dataset.csv → Merged dataset (if included)
-📘 README.md → Project description
+📘 README.md — Project documentation
